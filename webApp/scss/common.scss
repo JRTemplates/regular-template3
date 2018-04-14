@@ -1,0 +1,64 @@
+.f-toe {
+    overflow: hidden;
+    word-wrap: normal;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.font14 {
+    font-size: 14px;
+}
+
+.f-cl {
+    clear: both;
+}
+
+.f-fl {
+    float: left;
+}
+
+.f-fr {
+    float: right;
+}
+
+.f-toe {
+    overflow: hidden;
+    word-wrap: normal;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.f-tl {
+    text-align: left
+}
+
+.f-tc {
+    text-align: center
+}
+
+.f-tr {
+    text-align: right
+}
+
+.d-inb {
+    display: inline-block
+}
+
+textarea {
+    resize: none;
+}
+
+.u-rds-4 {
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+}
+
+.l-clearfix:after {
+    content: ".";
+    display: block;
+    clear: both;
+    height: 0;
+    overflow: hidden;
+    visibility: hidden;
+}
